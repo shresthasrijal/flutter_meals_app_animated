@@ -1,6 +1,6 @@
 # proj8_meals_app_animated
 
-A new Flutter project.
+Meals App with app wide state manangement using riverpod package, and now with a few animations
 
 ## Getting Started
 
